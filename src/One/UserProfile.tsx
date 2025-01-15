@@ -1,6 +1,6 @@
 export const UserProfile = () => {
   return (
-    <div className="flex w-[36rem] gap-x-4 rounded-lg bg-white p-12">
+    <div className="flex w-[36rem] flex-col gap-x-4 rounded-lg bg-white p-12 lg:flex-row">
       <img
         src="https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/448754182_956574059554630_7494155741246937501_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeF8lU33wT2ZXL9nJbvHZpM6KASwWoUYgBYoBLBahRiAFt3ZDEHQS63A8oBcvi30hQJCC8ex01LVx_QCOliB0vXy&_nc_ohc=PBwcoSsBWPYQ7kNvgE2E2d2&_nc_oc=Adic0WHIqOSKLqwXrh5OkOpKaZ-46hwqzILliRnht32hP3Qc-JYuLNSRP8jSBbL0JQY&_nc_zt=23&_nc_ht=scontent.fsgn2-6.fna&_nc_gid=AdohDHQIjthW1-7pIxYa8fU&oh=00_AYBI2C8QKceO87b7PllnZRZUxN2yDIDBuqxLWFvWLHwE7w&oe=678D51B1"
         className="w-32 self-start rounded-full"

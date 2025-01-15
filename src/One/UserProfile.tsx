@@ -9,13 +9,13 @@ export const UserProfile = () => {
       <div className="space-y-7 text-rose-600">
         <div>
           <h1 className="font-kochad text-3xl font-bold">Huỳnh Thanh Nam</h1>
-          <h2 className="font-popi mt-1">
+          <h2 className="mt-1 font-popi">
             Sinh viên khoa Tâm lý học - HCMUSSH
           </h2>
         </div>
 
         <div className="space-y-4">
-          <p className="font-roboto flex items-center">
+          <p className="flex items-center font-roboto">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -35,7 +35,7 @@ export const UserProfile = () => {
         </div>
 
         <div className="space-y-4">
-          <p className="font-roboto flex items-center">
+          <p className="flex items-center font-roboto">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -55,7 +55,7 @@ export const UserProfile = () => {
         </div>
 
         <div className="space-y-4">
-          <p className="font-roboto flex items-center">
+          <p className="flex items-center font-roboto">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -74,7 +74,7 @@ export const UserProfile = () => {
           </p>
         </div>
 
-        <p className="text-lg">PhOH và SSS. Anh này hay comment các kiểu nè.</p>
+        <p className="text-lg">PHoH và SSS. Anh này hay comment các kiểu nè.</p>
 
         <button
           className="rounded-md border-2 border-red-200 p-2"
